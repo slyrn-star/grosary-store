@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pymongo
+certifi
+python-dotenv
+bcrypt
+PyJWT
+pydantic[email]
